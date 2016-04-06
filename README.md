@@ -1,5 +1,6 @@
-# CodeGuideLines
-
+# CodeGuideLines for iOS (Swift/Objective-C)
+***
+## Project structure
 * Header & Footer only XIB (Do not use storyboard)
 * Never pass Mutable objects as parameters
 * Method should invoke as method not as property
